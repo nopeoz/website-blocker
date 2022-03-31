@@ -1,0 +1,1 @@
+This program edits the hosts file to block certain websites for a specified number of hours. It must be run the whole time, or re-run again with an input of zero hours, for it to automatically unblock the sites after the time is up.
